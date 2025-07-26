@@ -17,7 +17,7 @@ if not GROQ_API_KEY:
 
 # Streamlit App UI
 st.set_page_config(page_title="Stock Market AI", page_icon="📈", layout="wide")
-st.title("📈 Stock Market AI – Real-Time Analysis & Insights")
+st.title("📈 AI Stock Market – Real-Time Analysis")
 st.write("Enter a company name or stock ticker to fetch live market data, charts, and AI-driven insights!")
 
 # User Input
